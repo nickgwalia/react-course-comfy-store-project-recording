@@ -2,4 +2,8 @@
 
 #### Older React Version
 
-Because of hot reloading issues, switched back to older react version.
+```
+"react": "^16.13.1",
+"react-dom": "^16.13.1",
+"react-scripts": "3.4.3"
+```
